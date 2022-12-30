@@ -1,4 +1,4 @@
-# flutter_application_2
+# flutter Todo app with HIVE Database
 
 A new Flutter project.
 
